@@ -1,3 +1,3 @@
 -- good one
 /* This task is about creating a database */
-CREATE DATABASE hbtn_0c_0 
+CREATE DATABASE IF NOT EXISTS hbtn_0c_0
