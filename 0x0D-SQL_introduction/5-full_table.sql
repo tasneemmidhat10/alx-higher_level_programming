@@ -1,2 +1,2 @@
 -- This statment to show the description of a table without describe or explain
-SHOW CREATE TABLE;
+SHOW CREATE TABLE first_table;
